@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DynamicIcon</string>
+    <string name="dym_calendar_week_format">EEE</string>
+</resources>
