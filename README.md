@@ -1,5 +1,5 @@
-一个简单的动态图标的Demo。
+一个简单的动态图标的Demo
 -----
 包括带秒针的动态时钟和动态日历。
 
-![](https://github.com/Liuzhuocai/DynamicDemo/dynamicIcon.png)
+![](https://github.com/Liuzhuocai/raw/master/DynamicDemo/dynamicIcon.png)
