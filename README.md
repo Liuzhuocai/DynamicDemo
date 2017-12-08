@@ -2,4 +2,4 @@
 -----
 包括带秒针的动态时钟和动态日历。
 
-![Image text](https://github.com/Liuzhuocai/raw/master/DynamicDemo/dynamicIcon.png)
+![Image text](dynamicIcon.png)
